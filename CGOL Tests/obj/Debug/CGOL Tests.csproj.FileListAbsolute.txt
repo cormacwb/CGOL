@@ -1,0 +1,7 @@
+c:\Users\Cormac\documents\visual studio 2012\Projects\CGOL\CGOL Tests\bin\Debug\CGOL Tests.dll
+c:\Users\Cormac\documents\visual studio 2012\Projects\CGOL\CGOL Tests\bin\Debug\CGOL Tests.pdb
+c:\Users\Cormac\documents\visual studio 2012\Projects\CGOL\CGOL Tests\bin\Debug\CGOL.exe
+c:\Users\Cormac\documents\visual studio 2012\Projects\CGOL\CGOL Tests\bin\Debug\CGOL.pdb
+c:\Users\Cormac\documents\visual studio 2012\Projects\CGOL\CGOL Tests\obj\Debug\CGOL Tests.csprojResolveAssemblyReference.cache
+c:\Users\Cormac\documents\visual studio 2012\Projects\CGOL\CGOL Tests\obj\Debug\CGOL Tests.dll
+c:\Users\Cormac\documents\visual studio 2012\Projects\CGOL\CGOL Tests\obj\Debug\CGOL Tests.pdb

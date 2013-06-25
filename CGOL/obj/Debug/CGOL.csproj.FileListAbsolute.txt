@@ -1,0 +1,9 @@
+c:\users\cormac\documents\visual studio 2012\Projects\CGOL\CGOL\bin\Debug\CGOL.exe.config
+c:\users\cormac\documents\visual studio 2012\Projects\CGOL\CGOL\bin\Debug\CGOL.exe
+c:\users\cormac\documents\visual studio 2012\Projects\CGOL\CGOL\bin\Debug\CGOL.pdb
+c:\users\cormac\documents\visual studio 2012\Projects\CGOL\CGOL\obj\Debug\CGOL.csprojResolveAssemblyReference.cache
+c:\users\cormac\documents\visual studio 2012\Projects\CGOL\CGOL\obj\Debug\CGOL.Properties.Resources.resources
+c:\users\cormac\documents\visual studio 2012\Projects\CGOL\CGOL\obj\Debug\CGOL.csproj.GenerateResource.Cache
+c:\users\cormac\documents\visual studio 2012\Projects\CGOL\CGOL\obj\Debug\CGOL.exe
+c:\users\cormac\documents\visual studio 2012\Projects\CGOL\CGOL\obj\Debug\CGOL.pdb
+c:\users\cormac\documents\visual studio 2012\Projects\CGOL\CGOL\obj\Debug\CGOL.MainWindow.resources
